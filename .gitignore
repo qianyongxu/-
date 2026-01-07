@@ -1,0 +1,31 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.zip
+*.tar.gz
+*.rar
+
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+build/
+
+# Certificates and Secrets
+*.key
+*.crt
+*.csr
+*.p8
+*.pem
+.env
+
+# Flutter (also covered by nested .gitignore but good to have)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Backend
+hk_backend/uploads/

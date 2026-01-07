@@ -1,0 +1,315 @@
+[
+  {
+    "id": "sw_huashijie",
+    "name": "画世界Pro",
+    "logo": "https://ui-avatars.com/api/?name=HS&background=FF5722&color=fff&size=128",
+    "description": "专业的手机绘画软件",
+    "sourceFormat": ".hw",
+    "importFormats": [
+      ".hw",
+      ".psd",
+      ".jpg",
+      ".png"
+    ],
+    "exportFormats": [
+      ".hw",
+      ".psd",
+      ".jpg",
+      ".png"
+    ],
+    "formats": [
+      ".hw",
+      ".hsp",
+      ".art"
+    ]
+  },
+  {
+    "id": "sw_csp",
+    "name": "CLIP STUDIO PAINT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Clip_Studio_Paint_app_logo.png/240px-Clip_Studio_Paint_app_logo.png",
+    "description": "专业漫画插画制作软件",
+    "sourceFormat": ".clip",
+    "importFormats": [
+      ".clip",
+      ".lip",
+      ".sut",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".obj"
+    ],
+    "exportFormats": [
+      ".clip",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".pdf"
+    ],
+    "formats": [
+      ".clip",
+      ".lip",
+      ".sut"
+    ]
+  },
+  {
+    "id": "sw_medibang",
+    "name": "MediBang Paint",
+    "logo": "https://ui-avatars.com/api/?name=MB&background=00BCD4&color=fff&size=128",
+    "description": "免费轻量级绘画工具",
+    "sourceFormat": ".mdp",
+    "importFormats": [
+      ".mdp",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".webp"
+    ],
+    "exportFormats": [
+      ".mdp",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".webp"
+    ],
+    "formats": [
+      ".mdp"
+    ]
+  },
+  {
+    "id": "sw_sketchbook",
+    "name": "SketchBook",
+    "logo": "https://ui-avatars.com/api/?name=SB&background=FF9800&color=fff&size=128",
+    "description": "专业级绘图应用",
+    "sourceFormat": ".tiff",
+    "importFormats": [
+      ".tiff",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".bmp"
+    ],
+    "exportFormats": [
+      ".tiff",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".bmp"
+    ],
+    "formats": [
+      ".tiff",
+      ".tif",
+      ".sketches"
+    ]
+  },
+  {
+    "id": "sw_artflow",
+    "name": "ArtFlow",
+    "logo": "https://ui-avatars.com/api/?name=AF&background=9C27B0&color=fff&size=128",
+    "description": "Android 平板绘画首选",
+    "sourceFormat": ".png",
+    "importFormats": [
+      ".psd",
+      ".jpg",
+      ".png"
+    ],
+    "exportFormats": [
+      ".psd",
+      ".jpg",
+      ".png"
+    ],
+    "formats": [
+      ".png",
+      ".jpg",
+      ".psd"
+    ]
+  },
+  {
+    "id": "sw_procreate",
+    "name": "Procreate",
+    "logo": "https://ui-avatars.com/api/?name=Pro&background=000000&color=fff&size=128",
+    "description": "iPad 创意绘画大师",
+    "sourceFormat": ".procreate",
+    "importFormats": [
+      ".procreate",
+      ".brush",
+      ".brushset",
+      ".swatches",
+      ".psd",
+      ".jpg",
+      ".png"
+    ],
+    "exportFormats": [
+      ".procreate",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".pdf",
+      ".tiff"
+    ],
+    "formats": [
+      ".procreate",
+      ".brush",
+      ".brushset",
+      ".swatches"
+    ]
+  },
+  {
+    "id": "sw_photoshop",
+    "name": "Adobe Photoshop",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/240px-Adobe_Photoshop_CC_icon.svg.png",
+    "description": "行业标准图像处理软件",
+    "sourceFormat": ".psd",
+    "importFormats": [
+      ".psd",
+      ".psb",
+      ".jpg",
+      ".png",
+      ".gif",
+      ".tiff",
+      ".pdf",
+      ".abr",
+      ".pat"
+    ],
+    "exportFormats": [
+      ".psd",
+      ".jpg",
+      ".png",
+      ".gif",
+      ".tiff",
+      ".pdf"
+    ],
+    "formats": [
+      ".psd",
+      ".psb",
+      ".abr",
+      ".pat",
+      ".aco",
+      ".atn"
+    ]
+  },
+  {
+    "id": "sw_krita",
+    "name": "Krita",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/240px-Calligrakrita-base.svg.png",
+    "description": "开源免费绘画软件",
+    "sourceFormat": ".kra",
+    "importFormats": [
+      ".kra",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".ora"
+    ],
+    "exportFormats": [
+      ".kra",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".ora"
+    ],
+    "formats": [
+      ".kra",
+      ".krz",
+      ".bundle"
+    ]
+  },
+  {
+    "id": "sw_infinite",
+    "name": "Infinite Painter",
+    "logo": "https://ui-avatars.com/api/?name=IP&background=3F51B5&color=fff&size=128",
+    "description": "移动端高级绘画引擎",
+    "sourceFormat": ".pntr",
+    "importFormats": [
+      ".pntr",
+      ".psd",
+      ".jpg",
+      ".png"
+    ],
+    "exportFormats": [
+      ".pntr",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".zip"
+    ],
+    "formats": [
+      ".pntr"
+    ]
+  },
+  {
+    "id": "sw_sai",
+    "name": "Paint Tool SAI",
+    "logo": "https://ui-avatars.com/api/?name=SAI&background=8BC34A&color=fff&size=128",
+    "description": "轻量级日系插画工具",
+    "sourceFormat": ".sai",
+    "importFormats": [
+      ".sai",
+      ".sai2",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".bmp"
+    ],
+    "exportFormats": [
+      ".sai",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".bmp"
+    ],
+    "formats": [
+      ".sai",
+      ".sai2"
+    ]
+  },
+  {
+    "id": "sw_painter",
+    "name": "Corel Painter",
+    "logo": "https://ui-avatars.com/api/?name=CP&background=673AB7&color=fff&size=128",
+    "description": "数字艺术与绘画软件",
+    "sourceFormat": ".rif",
+    "importFormats": [
+      ".rif",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".tiff"
+    ],
+    "exportFormats": [
+      ".rif",
+      ".psd",
+      ".jpg",
+      ".png",
+      ".tiff"
+    ],
+    "formats": [
+      ".rif",
+      ".riff"
+    ]
+  },
+  {
+    "id": "sw_inkscape",
+    "name": "Inkscape",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/240px-Inkscape_Logo.svg.png",
+    "description": "开源矢量图形编辑器",
+    "sourceFormat": ".svg",
+    "importFormats": [
+      ".svg",
+      ".ai",
+      ".eps",
+      ".pdf",
+      ".jpg",
+      ".png"
+    ],
+    "exportFormats": [
+      ".svg",
+      ".png",
+      ".pdf",
+      ".eps",
+      ".dxf"
+    ],
+    "formats": [
+      ".svg"
+    ]
+  }
+]

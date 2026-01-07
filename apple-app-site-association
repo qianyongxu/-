@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "QR5QPPZWXW.com.huiku.app",
+        "paths": [ "/wechat/*" ]
+      }
+    ]
+  }
+}
